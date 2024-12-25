@@ -1,5 +1,9 @@
 # low-dose-CT
- 
+
+![image](1.jpg)
+
+![image](2.jpg)
+
 prep.py processes the dicom data first, converts it into images and stores it in datasets
 
 train.py is training. The training parameters are in options train_options and base_options python train.py --model --datasets ...
